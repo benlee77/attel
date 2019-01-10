@@ -6,5 +6,20 @@
 * 
 
 * 
-
+  
 * 
+
+* Design
+  - magic
+  - magic
+* firstwin
+* ks;ldk;askd
+* q;laskd;lsa
+  #+BEGIN_SRC python :results output
+    print("heeltp")
+  #+END_SRC
+
+  #+RESULTS:
+  : heeltp
+
+

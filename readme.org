@@ -1,25 +1,4 @@
-
-* 
-
-* 
-
-* 
-
-* 
-  
-* 
-
 * Design
-  - magic
-  - magic
-* firstwin
-* ks;ldk;askd
-* q;laskd;lsa
-  #+BEGIN_SRC python :results output
-    print("heeltp")
-  #+END_SRC
-
-  #+RESULTS:
-  : heeltp
-
-
+  hi my name is bejamine i am designing some rtubbish
+** methods
+   1. handphone scan qr code
